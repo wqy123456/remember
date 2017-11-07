@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wqy123456/remember/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+十年生死两茫茫。不思量。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+自难忘。千里孤坟，无处话凄凉。
 
-### Markdown
+纵使相逢应不识，尘满面，鬓如霜。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+夜来幽梦忽还乡。
 
-```markdown
-Syntax highlighted code block
+小轩窗。
 
-# Header 1
-## Header 2
-### Header 3
+正梳妆。
+相顾无言，惟有泪千行。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wqy123456/remember/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+料得年年肠断处，明月夜，短松冈。
